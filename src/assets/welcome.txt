@@ -1,0 +1,21 @@
+
+===============================================================================
+        Welcome to the internet computer developer community!
+                        You're using dfx {0}
+
+{1}
+
+To learn more before you start coding, see the documentation available online:
+
+- Quick Start: https://sdk.dfinity.org/docs/quickstart/quickstart-intro.html
+- SDK Developer Tools: https://sdk.dfinity.org/docs/developers-guide/sdk-guide.html
+- Motoko Language Guide: https://sdk.dfinity.org/docs/language-guide/motoko.html
+- Motoko Quick Reference: https://sdk.dfinity.org/docs/language-guide/language-manual.html
+
+If you want to work on programs right away, try the following commands to get started:
+
+    cd {2}
+    dfx help
+    dfx new --help
+
+===============================================================================
